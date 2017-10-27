@@ -1,0 +1,17 @@
+---
+title: "Holy cow!"
+---
+
+### I have a webpage!
+
+And I can put all kinds of stuff on it! Realluy. I can write whatever
+
+### Let's have a link
+
+My favorit website is [google](https://www.google.com)
+
+I like the [about page](about.html)
+
+### Here is my picture:
+
+<img src="images/class_cow.png" style="width:75%">
