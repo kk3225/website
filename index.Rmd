@@ -1,17 +1,29 @@
 ---
-title: "Holy cow!"
+title: "Welcome to Kwangmin's Webpage"
 ---
 
-### I have a webpage!
+### My name is
 
-And I can put all kinds of stuff on it! Realluy. I can write whatever
+Kwangmin Kim
 
-### Let's have a link
+### I am from
 
-My favorit website is [google](https://www.google.com)
+South Korea
 
-I like the [about page](about.html)
+### My favorit website is 
 
-### Here is my picture:
+[google](https://www.google.com)
 
-<img src="images/class_cow.png" style="width:75%">
+I like the [about page](http://htmlpreview.github.io/?https://github.com/kk3225/website/blob/master/index.html)
+
+### My educaltional backgrounds are
+Biochemsitry in BS at Kangwon National University
+
+Mathematics in BA at Baruch College in CUNY
+
+Biostatistics in MS at Columbia University
+
+### Here are my favorite pictures:
+<img src="images/fallen_leaves.jpg" style="width:33%">
+<img src="images/red_tree.jpg" style="width:33%">
+<img src="images/yellow_tree.jpg" style="width:33%">
