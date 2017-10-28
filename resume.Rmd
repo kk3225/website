@@ -1,0 +1,13 @@
+---
+title: "CV"
+---
+
+My CV can be downloaded [here](resume\resume.pdf).
+
+
+### My educaltional backgrounds are
+Biochemsitry in BS at Kangwon National University
+
+Mathematics in BA at Baruch College in CUNY
+
+Biostatistics in MS at Columbia University

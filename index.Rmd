@@ -1,27 +1,8 @@
 ---
-title: "Welcome to Kwangmin's Webpage"
+title: "Kwangmin's Webpage"
 ---
+### My name is Kwangmin Kim from South Korea
 
-### My name is
-
-Kwangmin Kim
-
-### I am from
-
-South Korea
-
-### My favorit website is 
-
-[google](https://www.google.com)
-
-I like the [about page](http://htmlpreview.github.io/?https://github.com/kk3225/website/blob/master/index.html)
-
-### My educaltional backgrounds are
-Biochemsitry in BS at Kangwon National University
-
-Mathematics in BA at Baruch College in CUNY
-
-Biostatistics in MS at Columbia University
 
 ### Here are my favorite pictures:
 <img src="images/fallen_leaves.jpg" style="width:33%">
