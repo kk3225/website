@@ -5,7 +5,7 @@ navbar:
   right:
     - text: "CV"
       href: resume.html
-    - icon: fa-envelop fa-lg
+    - icon: fa-envelope fa-lg
       href: mailto:<kk3225@columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/kk3225
